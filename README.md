@@ -1,0 +1,1 @@
+This is an incomplete list of all projects I have worked on in University. I had to rename the names of the file so as to not break university policy of giving away the answers to the previous assignments which might be used in the future.
